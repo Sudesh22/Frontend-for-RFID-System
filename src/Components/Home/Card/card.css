@@ -1,0 +1,14 @@
+.card-dsn{
+    background: linear-gradient(90deg, rgba(0,0,0,1) 6%, rgba(29,50,55,1) 100%, rgba(27,27,64,1) 100%);
+    color:white;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.profile-img{
+    border-radius: 50%;
+    width: 13vw;
+}
